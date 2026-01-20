@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a BSIT graduate and I love to develop that is something meaningful. I am also a freelance web developer and very excited to work with you.<br><br><br>• I mostly develop system for capstone projects in different schools (2023 - present).<br> • I learned to deploy my projects on AWS using docker, nginx, EC2.<br>• I also love designing website using Figma and use my design skills on every of my projects.<br><br><br>To show my skills. Please visit my portfolio.<br><br><br>https://iamdeveloper.great-site.net/</p>
+<p align="left">I am a BSIT graduate and I love to develop that is something meaningful. I am also a freelance web developer and very excited to work with you.<br><br>• I mostly develop system for capstone projects in different schools (2023 - present).<br> • I learned to deploy my projects on AWS using docker, nginx, EC2.<br>• I also love designing website using Figma and use my design skills on every of my projects.<br><br>To show my skills. Please visit my portfolio.<br><br><br>https://iamdeveloper.great-site.net/</p>
 
 ###
 
@@ -42,11 +42,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
 
-<h2 align="left">You can contact me in here</h2>
+<p align="left">Frameworks that i usually used are:<br><br>• VueJS for front-end<br>• Laravel for back-end<br>• TailwindCSS for the css<br><br>But I am willing to learn more as it is also on of my strength. I love to learn.</p>
+
+###
+
+<h2 align="left">You can contact me on here</h2>
 
 ###
 
