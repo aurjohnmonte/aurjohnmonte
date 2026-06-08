@@ -1,74 +1,86 @@
-<h1 align="left">Hey 👋 How are you?</h1>
+<div align="center">
 
-###
+---
 
-<p align="left">I am Aurjohn Cris C. Monte, lived in Cabadbaran City Agusan del Norte Philippines.</p>
+### `// BSIT GRADUATE · FREELANCE WEB DEVELOPER`
 
-###
+# Hey 👋 I'm **Aurjohn Cris Monte**
 
-<h2 align="left">About me</h2>
+*Cabadbaran City, Agusan del Norte, Philippines*
 
-###
+<br>
 
-<p align="left">I am a BSIT graduate and I love to develop that is something meaningful. I am also a freelance web developer and very excited to work with you.<br><br>• I mostly develop system for capstone projects in different schools (2023 - present).<br> • I learned to deploy my projects on AWS using docker, nginx, EC2.<br>• I also love designing website using Figma and use my design skills on every of my projects.<br><br>To show my skills. Please visit my portfolio.<br><br><br>https://iamdeveloper.great-site.net/</p>
+## 🌐 [aurjohn-portfolio.vercel.app](https://aurjohn-portfolio.vercel.app/)
 
-###
+> **Visit my portfolio to see my work!**
 
-<p align="left"></p>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
+## About Me
 
-<p align="left">Frameworks that i usually used are:<br><br>• VueJS for front-end<br>• Laravel for back-end<br>• TailwindCSS for the css<br><br>But I am willing to learn more as it is also on of my strength. I love to learn.</p>
+I love building things that are **meaningful**. As a BSIT graduate and freelance web developer, I specialize in developing systems for capstone projects across different schools — and I'm very excited to work with you.
 
-###
+- 🏫 Building capstone project systems for various schools **(2023 – present)**
+- ☁️ Experienced deploying on **AWS** using Docker, Nginx, and EC2
+- 🎨 Passionate about UI/UX — I use **Figma** on every project
+- 📚 One of my greatest strengths? **I love to learn** — always picking up new tools and frameworks
 
-<h2 align="left">You can contact me on here</h2>
+---
 
-###
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="VueJS" title="VueJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" title="TailwindCSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" title="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+</div>
+
+**My primary stack:**
+- **Frontend** — VueJS
+- **Backend** — Laravel
+- **CSS** — TailwindCSS
+
+---
+
+## 📬 Connect with Me
 
 <div align="left">
   <a href="https://facebook.com/aurjohn.monte" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/aurjohn-cris-monte" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@mangasm9293" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/kingaurjohn_lame/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
 
-###
+---
+
+<div align="center">
+  <sub>// open to collaborations · aurjohn-portfolio.vercel.app</sub>
+</div>
