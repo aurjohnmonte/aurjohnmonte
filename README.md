@@ -2,9 +2,9 @@
 
 ---
 
-### `// BSIT GRADUATE · FREELANCE WEB DEVELOPER`
+### `BSIT GRADUATE · FREELANCE WEB DEVELOPER`
 
-# Hey 👋 I'm **Aurjohn Cris Monte**
+# Hey, I'm **Aurjohn Cris Monte**
 
 *Cabadbaran City, Agusan del Norte, Philippines*
 
