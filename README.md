@@ -10,7 +10,7 @@
 
 <br>
 
-## 🌐 [aurjohn-portfolio.vercel.app](https://aurjohn-portfolio.vercel.app/)
+## [aurjohn-portfolio.vercel.app](https://aurjohn-portfolio.vercel.app/)
 
 > **Visit my portfolio to see my work!**
 
